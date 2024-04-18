@@ -1,7 +1,7 @@
 {
   "name": "StakeSafe",
   "website": "https://kingsuper.org/",
-  "description": "We’ve been validating since 2020 and currently validate for 36 networks.Some of the well known ones include Sui,Celestia,Axelar,Avalanche,The Graph Protocol,Chainflip and many others.",
+  "description": "We’ve been validating since 2020 and currently validate for 36 networks.",
   "logo": "https://raw.githubusercontent.com/elijah12333/staking/main/StakeSafe.png",
   "twitter": ""
 }
